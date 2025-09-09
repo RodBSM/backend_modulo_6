@@ -1,0 +1,11 @@
+Fluxo Acordar
+
+acordar()
+abrirOlhos()
+levantar()
+alongar()
+tomarBanho()
+escovarDentes()
+vestir()
+tomarCafé()
+estadoPronto()
